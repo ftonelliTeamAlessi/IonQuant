@@ -99,4 +99,5 @@ Fengchao Yu, Sarah E. Haynes, Alexey I. Nesvizhskii
 <br>
 Molecular & Cellular Proteomics, 20 (2021), 100077, DOI: 10.1016/j.mcpro.2021.100077
 
+Cite the code: [![DOI](https://zenodo.org/badge/660120248.svg)](https://zenodo.org/badge/latestdoi/660120248)
 
